@@ -1,0 +1,7 @@
+name: CreeperTree
+version: '${version}'
+main: skillter.creepertree.CreeperTree
+api-version: 1.19
+prefix: CreeperTree
+authors: [ Skillter ]
+description: Turns every tree a player mines into a creeper tree
