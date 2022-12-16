@@ -49,7 +49,7 @@ processResources {
 build {
     doLast {
         var fileName = "CreeperTree-" + version + ".jar"
-        var target = "F:\\minecraft_dev_servers\\1.17.1\\_Main Server 1.17.1\\plugins"
+        var target = "F:\\minecraft_dev_servers\\1.19.3\\creeper trees\\plugins"
 
         copy {
             from ("${buildDir}\\libs\\${fileName}")
